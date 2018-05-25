@@ -5,6 +5,9 @@ This blog is all about Oracle technology and will encompass the latest PAAS rele
 Whether you are integrating SAAS applications, on-premise applications, building micro services,
 Oracle Jet applications or migrating data to an Oracle SAAS application we aim to have something for you here...
 
+Reporting tools and Business Intelligence products will be explored as Oracle strategy to move to the cloud has see
+a plethora of new products added to its portfolio we will explore these and the many opprotunities they present.
+
 You can use the [editor on GitHub](https://github.com/TheGuyBarnes/TheGuyBarnes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
