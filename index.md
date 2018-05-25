@@ -2,8 +2,8 @@
 
 This blog is all about Oracle technology and will encompass the latest PAAS releases through to on premise Fusion middleware. 
 
-Whether you are integrating SAAS applications, on-premise applications, building micro services, Oracle Jet applications or migrating  
-data to an Oracle SAAS application we aim to have something for you here...
+Whether you are integrating SAAS applications, on-premise applications, building micro services,
+Oracle Jet applications or migrating data to an Oracle SAAS application we aim to have something for you here...
 
 You can use the [editor on GitHub](https://github.com/TheGuyBarnes/TheGuyBarnes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
