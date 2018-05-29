@@ -8,6 +8,8 @@ Oracle Jet applications or migrating data to an Oracle SAAS application we aim t
 Reporting tools and Business Intelligence products will be explored as Oracle strategy to move to the cloud has see
 a plethora of new products added to its portfolio we will explore these and the many opprotunities they present.
 
+We aim to update this blog on a regular basis ..
+
 You can use the [editor on GitHub](https://github.com/TheGuyBarnes/TheGuyBarnes.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
